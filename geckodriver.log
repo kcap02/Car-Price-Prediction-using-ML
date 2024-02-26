@@ -1,0 +1,669 @@
+1708542471741	geckodriver	INFO	Listening on 127.0.0.1:45099
+1708542472555	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVbX84o"
+Gtk-Message: 20:07:52.567: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708542473041	Marionette	INFO	Marionette enabled
+1708542473138	Marionette	INFO	Listening on port 43127
+Read port: 43127
+1708542473332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708542504770	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708542549993	geckodriver	INFO	Listening on 127.0.0.1:35683
+1708542550791	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileTi44Nf"
+Gtk-Message: 20:09:10.803: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708542551257	Marionette	INFO	Marionette enabled
+1708542551340	Marionette	INFO	Listening on port 45715
+Read port: 45715
+1708542551531	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js, line 26: Script terminated by timeout at:
+eu@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000385
+
+1708542564461	Marionette	INFO	Stopped listening on port 45715
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7ff7bdc6b880 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708542757464	geckodriver	INFO	Listening on 127.0.0.1:48233
+1708542758344	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8Di32d"
+Gtk-Message: 20:12:38.356: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708542758749	Marionette	INFO	Marionette enabled
+1708542758798	Marionette	INFO	Listening on port 42513
+Read port: 42513
+1708542759009	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js, line 26: Script terminated by timeout at:
+eu@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000385
+
+1708542769311	Marionette	INFO	Stopped listening on port 42513
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7fb592f63f10 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708542772897	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1708542857704	geckodriver	INFO	Listening on 127.0.0.1:46195
+1708542858603	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNGSV9Y"
+Gtk-Message: 20:14:18.617: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708542859034	Marionette	INFO	Marionette enabled
+1708542859079	Marionette	INFO	Listening on port 37873
+Read port: 37873
+1708542859297	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js, line 26: Script terminated by timeout at:
+eu@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000385
+
+1708542866839	Marionette	INFO	Stopped listening on port 37873
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7f7b90856fd0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708542873360	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1708542966816	geckodriver	INFO	Listening on 127.0.0.1:51053
+1708542967733	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilepnvHiW"
+Gtk-Message: 20:16:07.746: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708542968165	Marionette	INFO	Marionette enabled
+1708542968215	Marionette	INFO	Listening on port 40587
+Read port: 40587
+1708542968430	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js, line 26: Script terminated by timeout at:
+eu@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000385
+
+1708542973481	Marionette	INFO	Stopped listening on port 40587
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7f30d5855d30 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708542982496	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1708543027366	geckodriver	INFO	Listening on 127.0.0.1:60691
+1708543028297	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileUb8YaZ"
+Gtk-Message: 20:17:08.311: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708543028757	Marionette	INFO	Marionette enabled
+1708543028811	Marionette	INFO	Listening on port 41179
+Read port: 41179
+1708543029044	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js, line 26: Script terminated by timeout at:
+eu@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000385
+
+1708543040291	Marionette	INFO	Stopped listening on port 41179
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7f2354d5ac10 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708562227444	geckodriver	INFO	Listening on 127.0.0.1:35147
+1708562228367	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileE3eI9j"
+Gtk-Message: 01:37:08.381: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708562228840	Marionette	INFO	Marionette enabled
+1708562228890	Marionette	INFO	Listening on port 39433
+Read port: 39433
+1708562229112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708562259336	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708602570648	geckodriver	INFO	Listening on 127.0.0.1:49065
+1708602571542	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilelxVPdZ"
+Gtk-Message: 12:49:31.555: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708602572052	Marionette	INFO	Marionette enabled
+1708602572102	Marionette	INFO	Listening on port 38201
+Read port: 38201
+1708602572310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js, line 26: Script terminated by timeout at:
+eu@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000385
+
+1708602582049	Marionette	INFO	Stopped listening on port 38201
+[GFX1-]: Wayland protocol error: warning: queue 7fd257676af0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708602610229	geckodriver	INFO	Listening on 127.0.0.1:46467
+1708602611049	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenQwBcK"
+Gtk-Message: 12:50:11.061: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708602611522	Marionette	INFO	Marionette enabled
+1708602611570	Marionette	INFO	Listening on port 42609
+Read port: 42609
+1708602611780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.reezocar.com/_next/static/chunks/main-8431a7af762c9a17.js, line 1: Script terminated by timeout at:
+86590/m/<@https://www.reezocar.com/_next/static/chunks/main-8431a7af762c9a17.js:1:89433
+86590/W/<@https://www.reezocar.com/_next/static/chunks/main-8431a7af762c9a17.js:1:93306
+r@https://www.reezocar.com/_next/static/chunks/main-8431a7af762c9a17.js:1:89062
+71208/er.prototype._invokeListener@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000156
+eu@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000771
+
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1708602623660	Marionette	INFO	Stopped listening on port 42609
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7fec88575fd0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708604452372	geckodriver	INFO	Listening on 127.0.0.1:46811
+1708604453020	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilePqjiGY"
+Gtk-Message: 13:20:53.034: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708604453490	Marionette	INFO	Marionette enabled
+1708604453540	Marionette	INFO	Listening on port 42869
+Read port: 42869
+1708604453751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708604466303	Marionette	INFO	Stopped listening on port 42869
+[GFX1-]: Wayland protocol error: warning: queue 7f3b5835ad00 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708604540101	geckodriver	INFO	Listening on 127.0.0.1:54137
+1708604541024	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileWtniEq"
+Gtk-Message: 13:22:21.036: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708604541538	Marionette	INFO	Marionette enabled
+1708604541587	Marionette	INFO	Listening on port 37515
+Read port: 37515
+1708604541789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z, line 161: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:161:17
+bB@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:489:134
+cB/<@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:489:111
+
+1708604556095	Marionette	INFO	Stopped listening on port 37515
+[GFX1-]: Wayland protocol error: warning: queue 7f2a2c529ee0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708625774560	geckodriver	INFO	Listening on 127.0.0.1:32909
+1708625775432	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileISggHy"
+Gtk-Message: 19:16:15.448: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708625775960	Marionette	INFO	Marionette enabled
+1708625776011	Marionette	INFO	Listening on port 40417
+Read port: 40417
+1708625776222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708625806394	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708625829389	geckodriver	INFO	Listening on 127.0.0.1:60083
+1708625830313	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiler30buj"
+Gtk-Message: 19:17:10.326: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708625830802	Marionette	INFO	Marionette enabled
+1708625830849	Marionette	INFO	Listening on port 32785
+Read port: 32785
+1708625831050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708625861224	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708626040723	geckodriver	INFO	Listening on 127.0.0.1:49889
+1708626041642	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile8kBIsc"
+Gtk-Message: 19:20:41.656: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708626042088	Marionette	INFO	Marionette enabled
+1708626042133	Marionette	INFO	Listening on port 37359
+Read port: 37359
+1708626042324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1708626051057	Marionette	INFO	Stopped listening on port 37359
+[GFX1-]: Wayland protocol error: warning: queue 7f4a8a65a850 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708626224670	geckodriver	INFO	Listening on 127.0.0.1:33497
+1708626225610	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNP8LUO"
+Gtk-Message: 19:23:45.626: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708626226095	Marionette	INFO	Marionette enabled
+1708626226143	Marionette	INFO	Listening on port 37655
+Read port: 37655
+1708626226367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708626256544	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708626269164	geckodriver	INFO	Listening on 127.0.0.1:56461
+1708626270052	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileCLe2L6"
+Gtk-Message: 19:24:30.065: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708626270520	Marionette	INFO	Marionette enabled
+1708626270609	Marionette	INFO	Listening on port 44355
+Read port: 44355
+1708626270796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708626301498	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708631648192	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708634667919	geckodriver	INFO	Listening on 127.0.0.1:47541
+1708634668752	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileRFzTHy"
+Gtk-Message: 21:44:28.766: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708634669276	Marionette	INFO	Marionette enabled
+1708634669348	Marionette	INFO	Listening on port 36959
+Read port: 36959
+1708634669386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708634699333	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z, line 161: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:161:17
+bB/<@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:489:167
+l@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:161:62
+bB@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:489:134
+cB/<@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:489:111
+
+1708634936713	Marionette	INFO	Stopped listening on port 44355
+[GFX1-]: Wayland protocol error: warning: queue 7f46be666a30 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708634941314	Marionette	INFO	Stopped listening on port 32785
+[GFX1-]: Wayland protocol error: warning: queue 7f2318c5aeb0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+JavaScript warning: https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js, line 26: Script terminated by timeout at:
+eu@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000385
+
+1708634945043	Marionette	INFO	Stopped listening on port 43127
+[GFX1-]: Wayland protocol error: warning: queue 7fd76daa4100 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708634948960	Marionette	INFO	Stopped listening on port 37655
+[GFX1-]: Wayland protocol error: warning: queue 7f38c045aeb0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z, line 161: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:161:17
+bB@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:489:134
+cB/<@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:489:111
+
+1708634952737	Marionette	INFO	Stopped listening on port 40417
+[GFX1-]: Wayland protocol error: warning: queue 7f9abb95ad30 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+JavaScript warning: https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js, line 26: Script terminated by timeout at:
+ec@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1023464
+71208/iA/</<@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1024058
+er@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1019395
+71208/er.prototype._invokeListener@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000156
+eu@https://www.reezocar.com/_next/static/chunks/pages/_app-81194c7d24083f77.js:26:1000771
+
+1708634957110	Marionette	INFO	Stopped listening on port 39433
+[GFX1-]: Wayland protocol error: warning: queue 7f8bc1d59820 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708673205162	Marionette	INFO	Stopped listening on port 36959
+[GFX1-]: Wayland protocol error: warning: queue 7fd0d11413d0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708675735429	geckodriver	INFO	Listening on 127.0.0.1:37833
+1708675736275	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHIlgC3"
+Gtk-Message: 09:08:56.306: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708675737241	Marionette	INFO	Marionette enabled
+1708675737366	Marionette	INFO	Listening on port 33917
+Read port: 33917
+1708675737705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708675767251	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708676519485	geckodriver	INFO	Listening on 127.0.0.1:59601
+1708676520332	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile6mpJic"
+Gtk-Message: 09:22:00.369: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708676521280	Marionette	INFO	Marionette enabled
+1708676521398	Marionette	INFO	Listening on port 38125
+Read port: 38125
+1708676521787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1708676527820	Marionette	INFO	Stopped listening on port 38125
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7fcbd745bd60 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708676537818	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1708676538812	geckodriver	INFO	Listening on 127.0.0.1:44789
+1708676539666	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileOXMBTO"
+Gtk-Message: 09:22:19.693: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708676540688	Marionette	INFO	Marionette enabled
+1708676540825	Marionette	INFO	Listening on port 46815
+Read port: 46815
+1708676541256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708676568106	Marionette	INFO	Stopped listening on port 33917
+[GFX1-]: Wayland protocol error: warning: queue 7f39d3363d60 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708676570784	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708676571727	Marionette	INFO	Stopped listening on port 46815
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+[GFX1-]: Wayland protocol error: warning: queue 7fcf72c63850 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708676581718	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1708676699681	geckodriver	INFO	Listening on 127.0.0.1:52369
+1708676700503	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilezxt8lX"
+Gtk-Message: 09:25:00.536: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708676701567	Marionette	INFO	Marionette enabled
+1708676701687	Marionette	INFO	Listening on port 45787
+Read port: 45787
+1708676702061	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708676733783	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708677078832	geckodriver	INFO	Listening on 127.0.0.1:51655
+1708677079663	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3wVOE4"
+Gtk-Message: 09:31:19.698: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708677080646	Marionette	INFO	Marionette enabled
+1708677080763	Marionette	INFO	Listening on port 42851
+Read port: 42851
+1708677080844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1708677092482	Marionette	INFO	Stopped listening on port 45787
+[GFX1-]: Wayland protocol error: warning: queue 7f3a4fe2ba90 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708677095279	Marionette	INFO	Stopped listening on port 42851
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7ff4c256caf0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708677105281	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1708677532836	geckodriver	INFO	Listening on 127.0.0.1:39057
+1708677533708	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileAxiTIa"
+Gtk-Message: 09:38:53.738: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708677534638	Marionette	INFO	Marionette enabled
+1708677534769	Marionette	INFO	Listening on port 44491
+Read port: 44491
+1708677535210	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1708677538096	Marionette	INFO	Stopped listening on port 44491
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7fa1ddd29ee0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708677548091	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1708679076569	geckodriver	INFO	Listening on 127.0.0.1:38199
+1708679077399	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenx3fhB"
+Gtk-Message: 10:04:37.433: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708679078465	Marionette	INFO	Marionette enabled
+1708679078607	Marionette	INFO	Listening on port 37905
+Read port: 37905
+1708679078983	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708679110448	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708683187496	geckodriver	INFO	Listening on 127.0.0.1:37953
+1708683188324	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilefXsYHd"
+Gtk-Message: 11:13:08.359: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708683189400	Marionette	INFO	Marionette enabled
+1708683189517	Marionette	INFO	Listening on port 37351
+Read port: 37351
+1708683189759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708683219521	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708683861781	Marionette	INFO	Stopped listening on port 37351
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7f938a46e9a0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708683868219	Marionette	INFO	Stopped listening on port 37905
+[GFX1-]: Wayland protocol error: warning: queue 7f957306ea00 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708689594153	geckodriver	INFO	Listening on 127.0.0.1:49259
+1708689594977	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileOxhsux"
+Gtk-Message: 12:59:55.005: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708689595962	Marionette	INFO	Marionette enabled
+1708689596098	Marionette	INFO	Listening on port 39953
+Read port: 39953
+1708689596491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708689626601	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708689848389	Marionette	INFO	Stopped listening on port 39953
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7febe9774a60 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708689858407	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1708689902282	geckodriver	INFO	Listening on 127.0.0.1:53161
+1708689903105	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileGsTRTb"
+Gtk-Message: 13:05:03.136: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708689904170	Marionette	INFO	Marionette enabled
+1708689904262	Marionette	INFO	Listening on port 41901
+Read port: 41901
+1708689904642	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708689934331	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708690638089	geckodriver	INFO	Listening on 127.0.0.1:45583
+1708690638942	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilemIMhxh"
+Gtk-Message: 13:17:18.971: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708690639997	Marionette	INFO	Marionette enabled
+1708690640121	Marionette	INFO	Listening on port 39323
+Read port: 39323
+1708690640600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1708690643776	Marionette	INFO	Stopped listening on port 39323
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7f03a3c56880 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708690653773	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708690677098	Marionette	INFO	Stopped listening on port 41901
+[GFX1-]: Wayland protocol error: warning: queue 7f968d263e50 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708690746402	geckodriver	INFO	Listening on 127.0.0.1:37337
+1708690747265	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile74WQhf"
+Gtk-Message: 13:19:07.292: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708690748153	Marionette	INFO	Marionette enabled
+1708690748276	Marionette	INFO	Listening on port 35425
+Read port: 35425
+1708690748741	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708690778327	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z, line 161: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:161:17
+bB/<@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:500:167
+l@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:161:62
+bB@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:500:134
+cB/<@https://www.googletagmanager.com/gtag/js?id=G-Q2V5F4EZ2Z:500:111
+
+1708691172825	Marionette	INFO	Stopped listening on port 35425
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7fd73f65d910 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708691177430	geckodriver	INFO	Listening on 127.0.0.1:34099
+1708691178285	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilejQDNMX"
+Gtk-Message: 13:26:18.317: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708691179254	Marionette	INFO	Marionette enabled
+1708691179342	Marionette	INFO	Listening on port 33781
+Read port: 33781
+1708691179717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708691209779	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708734279886	geckodriver	INFO	Listening on 127.0.0.1:33121
+1708734280733	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiledfpJQI"
+Gtk-Message: 01:24:40.769: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708734281751	Marionette	INFO	Marionette enabled
+1708734281854	Marionette	INFO	Listening on port 43359
+Read port: 43359
+1708734282280	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708734312196	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708764782075	geckodriver	INFO	Listening on 127.0.0.1:59669
+1708764782908	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileiIfB5l"
+Gtk-Message: 09:53:02.942: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708764784274	Marionette	INFO	Marionette enabled
+1708764784385	Marionette	INFO	Listening on port 43245
+Read port: 43245
+1708764784932	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1708764814289	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1708765076659	geckodriver	INFO	Listening on 127.0.0.1:44175
+1708765077393	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileVXqS3F"
+Gtk-Message: 09:57:57.431: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1708765078747	Marionette	INFO	Marionette enabled
+1708765078879	Marionette	INFO	Listening on port 45503
+Read port: 45503
+1708765079360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1708765082503	Marionette	INFO	Stopped listening on port 45503
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[GFX1-]: Wayland protocol error: warning: queue 7ff057554d30 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708765092494	geckodriver::marionette	ERROR	Failed to close browser connection: unknown error
+1708777612782	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708793702432	Marionette	INFO	Stopped listening on port 33781
+[GFX1-]: Wayland protocol error: warning: queue 7f68cb96bac0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+JavaScript warning: https://connect.facebook.net/en_US/fbevents.js, line 24: Script terminated by timeout at:
+value@https://connect.facebook.net/en_US/fbevents.js:24:7878
+@https://connect.facebook.net/en_US/fbevents.js:24:71634
+
+1708793705416	Marionette	INFO	Stopped listening on port 43245
+[GFX1-]: Wayland protocol error: warning: queue 7fa60e572be0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
+1708793709598	Marionette	INFO	Stopped listening on port 43359
+[GFX1-]: Wayland protocol error: warning: queue 7efdd035bdc0 destroyed while proxies still attached:
+
+[GFX1-]: Wayland protocol error:   wl_display@1 still attached
+
